@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22264870294",
+    "project_id": "cloud-kitchen-57c5f",
+    "storage_bucket": "cloud-kitchen-57c5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22264870294:android:f3c60928156177662c19b7",
+        "android_client_info": {
+          "package_name": "com.moonhive.cloud_kitchen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp4BR97reAG3owAKBNl3yQw92D0PsWKMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
